@@ -1,0 +1,18 @@
+WEEK 1 WIREFRAME PLAN
+
+Desktop:
+- Header: brand on the left, navigation and CTA on the right.
+- Hero: headline, description, actions, and trust note on the left; abstract visual on the right.
+- Features: section heading and three feature cards.
+- Process: introduction on the left and a three-step list on the right.
+- About: compact studio introduction panel.
+- Contact: contrasting call-to-action panel.
+- Footer: brand, short description, copyright.
+
+Mobile:
+- Header navigation collapses into a menu button.
+- Hero content stacks vertically; decorative art follows the text.
+- Feature cards stack into one column.
+- Process content stacks vertically.
+- About and contact panels become single-column layouts.
+- Footer items wrap onto multiple lines.
